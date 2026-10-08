@@ -1,0 +1,24 @@
+{
+  "image": "pow-3942-qr.gif",
+  "payload": "https://ebay.sellerpaymentverifi.com/lk7q02v8",
+  "payload_len": 45,
+  "version": 6,
+  "modules": 41,
+  "ec_level": "H",
+  "mask": 2,
+  "mask_optimal": false,
+  "best_mask": 6,
+  "mask_scores": {
+    "0": 1251,
+    "1": 1119,
+    "2": 1562,
+    "3": 1209,
+    "4": 1313,
+    "5": 1361,
+    "6": 1044,
+    "7": 1181
+  },
+  "min_version_needed": 6,
+  "oversize_versions": 0,
+  "module_px": 21.8
+}
